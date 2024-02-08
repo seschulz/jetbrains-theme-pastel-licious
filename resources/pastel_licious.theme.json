@@ -5,9 +5,9 @@
   "editorScheme": "/pastel_licious.xml",
   "ui": {
     "*" : {
-      "background": "#eaf2f4",
+      "background": "#f7fff3",
       "foreground": "#392313",
-      "infoForeground": "#da836e",
+      "infoForeground": "#000000",
 
       "//": "controls color of tree items selected in panes like Project, Structure, etc.",
       "selectionBackground": "#A9E6D0",
@@ -45,10 +45,10 @@
 
     "//": "affects buttons like the 'Play' or 'Debug' buttons",
     "ActionButton": {
-      "hoverBackground": "#fcf8d5",
-      "hoverBorderColor": "#fcf8d5",
-      "pressedBackground": "#fcf8d5",
-      "pressedBorderColor": "#fcf8d5"
+      "hoverBackground": "#ffd4db",
+      "hoverBorderColor": "#ffd4db",
+      "pressedBackground": "#ffd4db",
+      "pressedBorderColor": "#ffd4db"
     },
     
     "Button": {
@@ -59,8 +59,8 @@
       "shadowColor": "#fcf8d5",
 
       "default": {
-        "startBackground": "#baabff",
-        "endBackground": "#baabff",
+        "startBackground": "#baffc9",
+        "endBackground": "#baffc9",
         "startBorderColor": "#d3afffc3",
         "endBorderColor": "#d3afffc3",
         "focusedBorderColor": "#d3afff",
