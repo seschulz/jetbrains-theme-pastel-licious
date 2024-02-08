@@ -1,3 +1,5 @@
+install: https://www.jetbrains.com/help/idea/managing-plugins.html#install_plugin_from_disk
+
 # Pastel-licious
 
 A deliciously pastel theme for JetBrains IDEs. 
