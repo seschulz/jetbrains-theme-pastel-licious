@@ -1,4 +1,5 @@
 install: https://www.jetbrains.com/help/idea/managing-plugins.html#install_plugin_from_disk
+select: in idea the jar file jetbrains-theme-pastel-licious-master\resources\resources.jar
 
 # Pastel-licious
 
